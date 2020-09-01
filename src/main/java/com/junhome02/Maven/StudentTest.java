@@ -35,6 +35,7 @@ public class StudentTest implements Student {
         System.out.println("主分支提交");
 
         System.out.println("分支dev修改001");
+        System.out.println("主干添加");
         List<App> list = new ArrayList<>();
 
         try {
